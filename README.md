@@ -27,7 +27,7 @@ Utilizei os dados fornecidos no material de apoio para preechimento da planilha 
 ## 🚀 Resultados
 A planilha ficou extremamente fácil de utilizar e o resultado foi muito TOP.
 
-[[LINK PARA O E-BOOK][https://github.com/denisecrist/PlanilhaInteligente-/blob/main/Planilha%20Bootcamp.xlsx)
+[[LINK PARA A PLANILHA][https://github.com/denisecrist/PlanilhaInteligente-/blob/main/Planilha%20Bootcamp.xlsx)
 
 ## 💭 Reflexão
 Eu já amava excel desde sempre, agora minha vontade de aprofundar meus conhecimentos aumentou 1000 vezes. Bora adquirir mais conhecimento e multiplicar!!!!!!!!!
